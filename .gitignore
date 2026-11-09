@@ -1,0 +1,6 @@
+# Secrets et données personnelles : ne jamais publier
+.streamlit/secrets.toml
+cache/
+__pycache__/
+*.pyc
+*.pdf
